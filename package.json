@@ -1,0 +1,16 @@
+{
+  "name": "workshop15",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "amqplib": "^0.8.0",
+    "nodemon": "^2.0.12"
+  }
+}
